@@ -1,10 +1,6 @@
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- HEADER -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B120B,50:3A2415,100:8B5E3C&height=210&section=header&text=VIRAJ%20SANKHLA&fontSize=44&fontColor=F2C078&animation=fadeIn&fontAlignY=42&desc=SOFTWARE%20%2F%20DATA%20%2F%20FINANCE&descAlignY=64&descSize=14&descColor=F7E7CE" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=750&color=F2C078&center=true&vCenter=true&width=720&lines=Building+systems+that+compound;Turning+ideas+into+working+software;Exploring+data%2C+markets%2C+and+technology;Research.+Build.+Ship.+Improve." width="100%"/>
@@ -18,10 +14,6 @@
 <a href="https://www.linkedin.com/in/s-viraj-patel/">
 <img src="https://img.shields.io/badge/LINKEDIN-1B120B?style=for-the-badge&logo=linkedin&logoColor=D6A15D"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=VirajSankhla&style=flat-square&color=8B5E3C&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -85,57 +77,47 @@ PRODUCTS
 
 ## `> current_work`
 
-<details open>
-<summary><b>01 · Wisp</b> | Software Project</summary>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+<h3>01 · Wisp</h3>
 
 A software project focused on building a clean and useful digital experience.
 
-**Status:** Building
+<br/>
+
+<code>BUILDING</code>
+
+<br/><br/>
 
 <a href="https://github.com/VirajSankhla/Wisp">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-3A2415?style=for-the-badge&logo=github&logoColor=F2C078"/>
 </a>
 
-<br/>
-<br/>
+</td>
+<td width="50%" valign="top">
 
-</details>
+<h3>02 · Stoxlytical</h3>
 
-<details open>
-<summary><b>02 · Swadeshi Stokz</b> | Market Research & Data</summary>
-
-<br/>
-
-A market-focused project exploring stock data, financial workflows, and research tools.
-
-**Status:** Research / Development
-
-<a href="https://github.com/VirajSankhla/Swadeshi_Stokz">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-3A2415?style=for-the-badge&logo=github&logoColor=F2C078"/>
-</a>
-
-<br/>
-<br/>
-
-</details>
-
-<details open>
-<summary><b>03 · Stoxlytical</b> | Financial Technology</summary>
+A finance-focused platform exploring financial data, research, and analytical tools.
 
 <br/>
 
-A finance-focused platform being built from the ground up, exploring financial data, analytical tools, and research workflows.
+<code>PRIVATE / IN PROGRESS</code>
 
-**Status:** Private / In Progress
+<br/><br/>
+
+Building from the ground up.
+
+</td>
+</tr>
+</table>
 
 <br/>
-
-</details>
 
 <details>
-<summary><b>04 · Experiments & Developer Tools</b></summary>
+<summary><b>03 · Experiments & Developer Tools</b></summary>
 
 <br/>
 
@@ -185,7 +167,7 @@ Exploring automation, AI-assisted workflows, and tools that improve software dev
 </div>
 
 <details>
-<summary><b>Contribution Activity</b></summary>
+<summary><b>Productive Time</b></summary>
 
 <br/>
 
@@ -194,8 +176,6 @@ Exploring automation, AI-assisted workflows, and tools that improve software dev
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VirajSankhla&theme=github_dark&utcOffset=5.5" width="700" alt="Productive time"/>
 
 </div>
-
-<br/>
 
 </details>
 
@@ -209,20 +189,28 @@ Exploring automation, AI-assisted workflows, and tools that improve software dev
 
 ### BUILDING
 
-- Data-driven products
-- Financial technology
-- Developer tools
-- Automation workflows
+<br/>
+
+| | |
+|---|---|
+| ◈ | Data-driven products |
+| ◈ | Financial technology |
+| ◈ | Automation workflows |
+| ◈ | Developer tools |
 
 </td>
 <td width="50%" valign="top">
 
 ### EXPLORING
 
-- Market research
-- Financial analytics
-- AI-assisted workflows
-- Better software systems
+<br/>
+
+| | |
+|---|---|
+| → | Market research |
+| → | Financial analytics |
+| → | AI-assisted workflows |
+| → | Better software systems |
 
 </td>
 </tr>
@@ -232,17 +220,28 @@ Exploring automation, AI-assisted workflows, and tools that improve software dev
 
 ## `> principles`
 
-<div align="center">
-
-| | |
-|---|---|
-| `01` | Build things that are useful. |
-| `02` | Prefer clarity over unnecessary complexity. |
-| `03` | Treat data as a raw material, not a conclusion. |
-| `04` | Ship, measure, and improve. |
-| `05` | Think in years. Execute today. |
-
-</div>
+<table>
+<tr>
+<td width="12%" align="center">`01`</td>
+<td>Build things that are useful.</td>
+</tr>
+<tr>
+<td align="center">`02`</td>
+<td>Prefer clarity over unnecessary complexity.</td>
+</tr>
+<tr>
+<td align="center">`03`</td>
+<td>Treat data as a raw material, not a conclusion.</td>
+</tr>
+<tr>
+<td align="center">`04`</td>
+<td>Ship, measure, and improve.</td>
+</tr>
+<tr>
+<td align="center">`05`</td>
+<td>Think in years. Execute today.</td>
+</tr>
+</table>
 
 ---
 
@@ -252,7 +251,7 @@ Exploring automation, AI-assisted workflows, and tools that improve software dev
 
 Interested in software, data, and financial technology?
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/s-viraj-patel/">
 <img src="https://img.shields.io/badge/LET'S%20CONNECT-3A2415?style=for-the-badge&logo=linkedin&logoColor=F2C078"/>
