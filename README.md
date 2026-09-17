@@ -1,8 +1,7 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B120B,50:3A2415,100:8B5E3C&height=210&section=header&text=VIRAJ%20SANKHLA&fontSize=44&fontColor=F2C078&animation=fadeIn&fontAlignY=42&desc=SOFTWARE%20%2F%20DATA%20%2F%20FINANCE&descAlignY=64&descSize=14&descColor=F7E7CE" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=750&color=F2C078&center=true&vCenter=true&width=720&lines=Building+systems+that+compound;Turning+ideas+into+working+software;Exploring+data%2C+markets%2C+and+technology;Research.+Build.+Ship.+Improve." width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B120B,50:3A2415,100:8B5E3C&height=210&section=header&text=VIRAJ%20SANKHLA&fontSize=44&fontColor=F2C078&animation=fadeIn&fontAlignY=42&desc=SOFTWARE%20%2F%20DATA%20%2F%20FINANCE&descAlignY=64&descSize=14&descColor=F7E7CE" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=750&color=F2C078&center=true&vCenter=true&width=720&lines=Building+systems+that+compound;Turning+ideas+into+working+software;Exploring+data%2C+markets%2C+and+technology;Research.+Build.+Ship.+Improve." width="100%" />
 
 <a href="https://www.linkedin.com/in/s-viraj-patel/">
 <img src="https://img.shields.io/badge/LINKEDIN-1B120B?style=for-the-badge&logo=linkedin&logoColor=D6A15D"/>
@@ -159,24 +158,26 @@ Exploring automation, AI-assisted workflows, and tools that improve software dev
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VirajSankhla&theme=github_dark" width="700" alt="GitHub profile activity"/>
 <br/><br/>
-<img src="https://streak-stats.demolab.com?user=VirajSankhla&hide_border=true&background=1B120B&ring=F2C078&fire=D97706&currStreakLabel=F2C078&sideLabels=D6A15D&dates=A8896C&currStreakNum=F7E7CE&sideNums=F7E7CE" width="700" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=VirajSankhla&hide_border=true&background=1B120B&ring=F2C078&fire=D97706&currStreakLabel=F2C078&sideLabels=D6A15D&dates=A8896C&currStreakNum=F7E7CE&sideNums=F7E7CE" width="700" alt="GitHub streak statistics"/>
+
 <br/><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VirajSankhla&theme=github_dark" width="350" alt="Repositories by language"/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VirajSankhla&theme=github_dark&utcOffset=5.5" width="100%" alt="Productive time"/>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VirajSankhla&theme=github_dark" width="100%" alt="Repositories by language"/>
+
+</td>
+</tr>
+</table>
 
 </div>
-
-<details>
-<summary><b>Productive Time</b></summary>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VirajSankhla&theme=github_dark&utcOffset=5.5" width="700" alt="Productive time"/>
-
-</div>
-
-</details>
 
 ---
 
