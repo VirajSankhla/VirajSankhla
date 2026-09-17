@@ -29,7 +29,7 @@
 
 ## `> whoami`
 
-<table>
+<table width="100%">
 <tr>
 <td width="55%" valign="top">
 
@@ -50,12 +50,24 @@ I enjoy taking ideas from an early concept to a working product. My interests in
 
 ### PROFILE
 
-| | |
-|---|---|
-| **Focus** | Software · Data |
-| **Interests** | Fintech · Automation |
-| **Approach** | Build · Learn · Improve |
-| **Status** | 🟠 Building |
+<table width="100%">
+<tr>
+<td><b>Focus</b></td>
+<td>Software · Data</td>
+</tr>
+<tr>
+<td><b>Interests</b></td>
+<td>Fintech · Automation</td>
+</tr>
+<tr>
+<td><b>Approach</b></td>
+<td>Build · Learn · Improve</td>
+</tr>
+<tr>
+<td><b>Status</b></td>
+<td>🟠 Building</td>
+</tr>
+</table>
 
 <br/>
 
@@ -77,7 +89,7 @@ PRODUCTS
 
 ## `> current_work`
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -183,34 +195,54 @@ Exploring automation, AI-assisted workflows, and tools that improve software dev
 
 ## `> focus`
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### BUILDING
+<h3>BUILDING</h3>
 
-<br/>
-
-| | |
-|---|---|
-| ◈ | Data-driven products |
-| ◈ | Financial technology |
-| ◈ | Automation workflows |
-| ◈ | Developer tools |
+<table width="100%">
+<tr>
+<td width="42">◈</td>
+<td>Data-driven products</td>
+</tr>
+<tr>
+<td>◈</td>
+<td>Financial technology</td>
+</tr>
+<tr>
+<td>◈</td>
+<td>Automation workflows</td>
+</tr>
+<tr>
+<td>◈</td>
+<td>Developer tools</td>
+</tr>
+</table>
 
 </td>
 <td width="50%" valign="top">
 
-### EXPLORING
+<h3>EXPLORING</h3>
 
-<br/>
-
-| | |
-|---|---|
-| → | Market research |
-| → | Financial analytics |
-| → | AI-assisted workflows |
-| → | Better software systems |
+<table width="100%">
+<tr>
+<td width="42">→</td>
+<td>Market research</td>
+</tr>
+<tr>
+<td>→</td>
+<td>Financial analytics</td>
+</tr>
+<tr>
+<td>→</td>
+<td>AI-assisted workflows</td>
+</tr>
+<tr>
+<td>→</td>
+<td>Better software systems</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -220,25 +252,25 @@ Exploring automation, AI-assisted workflows, and tools that improve software dev
 
 ## `> principles`
 
-<table>
+<table width="100%">
 <tr>
-<td width="12%" align="center">`01`</td>
+<td width="12%" align="center"><code>01</code></td>
 <td>Build things that are useful.</td>
 </tr>
 <tr>
-<td align="center">`02`</td>
+<td align="center"><code>02</code></td>
 <td>Prefer clarity over unnecessary complexity.</td>
 </tr>
 <tr>
-<td align="center">`03`</td>
+<td align="center"><code>03</code></td>
 <td>Treat data as a raw material, not a conclusion.</td>
 </tr>
 <tr>
-<td align="center">`04`</td>
+<td align="center"><code>04</code></td>
 <td>Ship, measure, and improve.</td>
 </tr>
 <tr>
-<td align="center">`05`</td>
+<td align="center"><code>05</code></td>
 <td>Think in years. Execute today.</td>
 </tr>
 </table>
