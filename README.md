@@ -2,7 +2,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B120B,50:3A2415,100:8B5E3C&height=210&section=header&text=VIRAJ%20SANKHLA&fontSize=44&fontColor=F2C078&animation=fadeIn&fontAlignY=42&desc=SOFTWARE%20%2F%20DATA%20%2F%20FINANCE&descAlignY=64&descSize=14&descColor=F7E7CE" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=750&color=F2C078&center=true&vCenter=true&width=720&lines=Building+systems+that+compound;Turning+ideas+into+working+software;Exploring+data%2C+markets%2C+and+technology;Research.+Build.+Ship.+Improve." width="100%"/>
 
 <a href="https://www.linkedin.com/in/s-viraj-patel/">
