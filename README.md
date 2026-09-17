@@ -142,6 +142,7 @@ Exploring automation, AI-assisted workflows, and tools that improve software dev
 
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,html,css,git,github,linux&theme=dark" width="100%"/>
 
+
 <br/>
 
 <img src="https://img.shields.io/badge/Python-3A2415?style=flat-square&logo=python&logoColor=F2C078"/>
@@ -160,9 +161,7 @@ Exploring automation, AI-assisted workflows, and tools that improve software dev
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VirajSankhla&theme=github_dark" width="700" alt="GitHub profile activity"/>
-
-<br/>
-
+<br/><br/>
 <img src="https://streak-stats.demolab.com?user=VirajSankhla&hide_border=true&background=1B120B&ring=F2C078&fire=D97706&currStreakLabel=F2C078&sideLabels=D6A15D&dates=A8896C&currStreakNum=F7E7CE&sideNums=F7E7CE" width="700" alt="GitHub contribution streak"/>
 
 <br/>
