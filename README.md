@@ -160,9 +160,7 @@ Exploring automation, AI-assisted workflows, and tools that improve software dev
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VirajSankhla&theme=github_dark" width="700" alt="GitHub profile activity"/>
 <br/><br/>
 <img src="https://streak-stats.demolab.com?user=VirajSankhla&hide_border=true&background=1B120B&ring=F2C078&fire=D97706&currStreakLabel=F2C078&sideLabels=D6A15D&dates=A8896C&currStreakNum=F7E7CE&sideNums=F7E7CE" width="700" alt="GitHub contribution streak"/>
-
-<br/>
-
+<br/><br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VirajSankhla&theme=github_dark" width="350" alt="Repositories by language"/>
 
 </div>
@@ -273,7 +271,6 @@ Exploring automation, AI-assisted workflows, and tools that improve software dev
 Interested in software, data, and financial technology?
 
 <br/>
-
 <a href="https://www.linkedin.com/in/s-viraj-patel/">
 <img src="https://img.shields.io/badge/LET'S%20CONNECT-3A2415?style=for-the-badge&logo=linkedin&logoColor=F2C078"/>
 </a>
@@ -283,9 +280,6 @@ Interested in software, data, and financial technology?
 </a>
 
 <br/>
-
 <code>RESEARCH · BUILD · SHIP · COMPOUND</code>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5E3C,50:3A2415,100:1B120B&height=120&section=footer" width="100%"/>
-
 </div>
