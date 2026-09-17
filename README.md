@@ -278,9 +278,7 @@ Interested in software, data, and financial technology?
 <a href="https://github.com/VirajSankhla">
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-3A2415?style=for-the-badge&logo=github&logoColor=D6A15D"/>
 </a>
-
-<br/>
-
+<br/><br/>
 <code>RESEARCH · BUILD · SHIP · COMPOUND</code>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5E3C,50:3A2415,100:1B120B&height=120&section=footer" width="100%"/>
 </div>
