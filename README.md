@@ -1,192 +1,273 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B120B,50:3A2415,100:8B5E3C&height=210&section=header&text=VIRAJ%20SANKHLA&fontSize=44&fontColor=F2C078&animation=fadeIn&fontAlignY=42&desc=SOFTWARE%20%2F%20DATA%20%2F%20FINANCE&descAlignY=64&descSize=14&descColor=F7E7CE" width="100%" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- HEADER -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=750&color=F2C078&center=true&vCenter=true&width=720&lines=Building+systems+that+compound;Turning+ideas+into+working+software;Exploring+data%2C+markets%2C+and+technology;Research.+Build.+Ship.+Improve." width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B120B,50:3A2415,100:8B5E3C&height=210&section=header&text=VIRAJ%20SANKHLA&fontSize=44&fontColor=F2C078&animation=fadeIn&fontAlignY=42&desc=SOFTWARE%20%2F%20DATA%20%2F%20FINANCE&descAlignY=64&descSize=14&descColor=F7E7CE" width="100%"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=750&color=F2C078&center=true&vCenter=true&width=720&lines=Building+systems+that+compound;Turning+ideas+into+working+software;Exploring+data%2C+markets%2C+and+technology;Research.+Build.+Ship.+Improve." width="100%"/>
 
-<a href="https://github.com/VirajSankhla"><img src="https://img.shields.io/badge/GITHUB-1B120B?style=for-the-badge&logo=github&logoColor=F2C078" /></a>
-<a href="https://www.linkedin.com/in/s-viraj-patel/"><img src="https://img.shields.io/badge/LINKEDIN-1B120B?style=for-the-badge&logo=linkedin&logoColor=D6A15D" /></a>
+<br/>
+
+<a href="https://github.com/VirajSankhla">
+<img src="https://img.shields.io/badge/GITHUB-1B120B?style=for-the-badge&logo=github&logoColor=F2C078"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/s-viraj-patel/">
+<img src="https://img.shields.io/badge/LINKEDIN-1B120B?style=for-the-badge&logo=linkedin&logoColor=D6A15D"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=VirajSankhla&style=flat-square&color=8B5E3C&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
+<div align="center">
+
+### `BUILDING USEFUL SYSTEMS`
+
+*Software, data, and financial technology.*
+
+</div>
+
 ## `> whoami`
-
-I build software around data, automation, and financial systems.
-
-My interests sit at the intersection of engineering, financial technology, product development, and research. I enjoy taking complex ideas, finding the useful signal, and turning them into simple working products.
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
+
+### VIRAJ SANKHLA
+
+Software builder exploring the intersection of engineering, data, automation, and finance.
+
+I enjoy taking ideas from an early concept to a working product. My interests include financial systems, developer tooling, market research, and building practical software.
+
+**Currently**
+
+- Building and exploring independent software projects
+- Working on financial technology and data-driven tools
+- Learning through research, experimentation, and shipping
+
+</td>
+<td width="45%" valign="top">
 
 ### PROFILE
 
-**Role**  Software Engineer / Builder  
-**Focus**  Fintech · Data · Automation  
-**Approach**  Build small · Think long  
-**Status**  🟠 Building
+| | |
+|---|---|
+| **Focus** | Software · Data |
+| **Interests** | Fintech · Automation |
+| **Approach** | Build · Learn · Improve |
+| **Status** | 🟠 Building |
 
-</td>
-<td width="50%">
+<br/>
 
-### CURRENT SIGNAL
-
-`DATA` → `PRODUCT`  
-`RESEARCH` → `SYSTEMS`  
-`IDEAS` → `SOFTWARE`  
-`LONG TERM` → `COMPOUNDING`
+```text
+IDEAS
+  ↓
+RESEARCH
+  ↓
+SYSTEMS
+  ↓
+PRODUCTS
+```
 
 </td>
 </tr>
 </table>
 
-## Current Projects
+---
 
-<table>
-<tr>
-<td width="33%" valign="top">
+## `> current_work`
 
-### `01` Wisp
+<details open>
+<summary><b>01 · Wisp</b> | Software Project</summary>
+
+<br/>
 
 A software project focused on building a clean and useful digital experience.
 
-**BUILDING**
+**Status:** Building
 
-<a href="https://github.com/VirajSankhla/Wisp">View repository →</a>
+<a href="https://github.com/VirajSankhla/Wisp">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-3A2415?style=for-the-badge&logo=github&logoColor=F2C078"/>
+</a>
 
-</td>
-<td width="33%" valign="top">
+<br/>
+<br/>
 
-### `02` Swadeshi Stokz
+</details>
+
+<details open>
+<summary><b>02 · Swadeshi Stokz</b> | Market Research & Data</summary>
+
+<br/>
 
 A market-focused project exploring stock data, financial workflows, and research tools.
 
-**RESEARCH / DEVELOPMENT**
+**Status:** Research / Development
 
-<a href="https://github.com/VirajSankhla/Swadeshi_Stokz">View repository →</a>
+<a href="https://github.com/VirajSankhla/Swadeshi_Stokz">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-3A2415?style=for-the-badge&logo=github&logoColor=F2C078"/>
+</a>
 
-</td>
-<td width="33%" valign="top">
+<br/>
+<br/>
 
-### `03` Stoxlytical
+</details>
 
-A private finance platform currently being built from the ground up.
+<details open>
+<summary><b>03 · Stoxlytical</b> | Financial Technology</summary>
 
-**PRIVATE / IN PROGRESS**
+<br/>
 
-Release when fully built.
+A finance-focused platform being built from the ground up, exploring financial data, analytical tools, and research workflows.
 
-</td>
-</tr>
-</table>
+**Status:** Private / In Progress
 
-## Technology Stack
+<br/>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,html,css,git,github,linux&theme=dark" width="100%" />
+</details>
 
-<br><br>
+<details>
+<summary><b>04 · Experiments & Developer Tools</b></summary>
 
-<img src="https://img.shields.io/badge/Python-3A2415?style=flat-square&logo=python&logoColor=F2C078" />
-<img src="https://img.shields.io/badge/JavaScript-3A2415?style=flat-square&logo=javascript&logoColor=F2C078" />
-<img src="https://img.shields.io/badge/TypeScript-3A2415?style=flat-square&logo=typescript&logoColor=D6A15D" />
-<img src="https://img.shields.io/badge/React-3A2415?style=flat-square&logo=react&logoColor=E8C39E" />
-<img src="https://img.shields.io/badge/Node.js-3A2415?style=flat-square&logo=node.js&logoColor=C49A6C" />
-<img src="https://img.shields.io/badge/Fintech-3A2415?style=flat-square&logo=bitcoin&logoColor=F2C078" />
-</div>
+<br/>
 
-## Contributions & Activity
+Exploring automation, AI-assisted workflows, and tools that improve software development and everyday productivity.
 
-The previous statistics and activity URLs were replaced with more reliable summary-card endpoints. Every card is stacked for better mobile rendering.
+**Status:** Exploring
 
-<div align="center">
+<br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VirajSankhla&theme=github_dark" width="100%" />
+</details>
 
-<br><br>
+---
 
-<img src="https://streak-stats.demolab.com?user=VirajSankhla&hide_border=true&background=1B120B&ring=F2C078&fire=D97706&currStreakLabel=F2C078&sideLabels=D6A15D&dates=A8896C&currStreakNum=F7E7CE&sideNums=F7E7CE" width="100%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VirajSankhla&theme=github_dark" width="100%" />
-
-</div>
-
-### Contribution Activity
+## `> technology`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VirajSankhla&theme=github_dark&utcOffset=5.5" width="100%" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,html,css,git,github,linux&theme=dark" width="100%"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-3A2415?style=flat-square&logo=python&logoColor=F2C078"/>
+<img src="https://img.shields.io/badge/JavaScript-3A2415?style=flat-square&logo=javascript&logoColor=F2C078"/>
+<img src="https://img.shields.io/badge/TypeScript-3A2415?style=flat-square&logo=typescript&logoColor=D6A15D"/>
+<img src="https://img.shields.io/badge/React-3A2415?style=flat-square&logo=react&logoColor=E8C39E"/>
+<img src="https://img.shields.io/badge/Node.js-3A2415?style=flat-square&logo=node.js&logoColor=C49A6C"/>
+<img src="https://img.shields.io/badge/Fintech-3A2415?style=flat-square&logo=bitcoin&logoColor=F2C078"/>
 
 </div>
 
-> GitHub's native contribution calendar, commit history, repository activity, and public contributions are also shown automatically on this profile.
+---
 
-## Contribution Focus
+## `> github_activity`
 
-```text
-[✓] Building data-driven products
-[✓] Exploring financial technology
-[✓] Automating repetitive workflows
-[✓] Improving developer workflows
-[✓] Studying markets and business systems
-[→] Turning Stoxlytical into a complete product
-[→] Shipping more useful software
-```
+<div align="center">
 
-## Operating Principles
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VirajSankhla&theme=github_dark" width="700" alt="GitHub profile activity"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=VirajSankhla&hide_border=true&background=1B120B&ring=F2C078&fire=D97706&currStreakLabel=F2C078&sideLabels=D6A15D&dates=A8896C&currStreakNum=F7E7CE&sideNums=F7E7CE" width="700" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VirajSankhla&theme=github_dark" width="350" alt="Repositories by language"/>
+
+</div>
+
+<details>
+<summary><b>Contribution Activity</b></summary>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VirajSankhla&theme=github_dark&utcOffset=5.5" width="700" alt="Productive time"/>
+
+</div>
+
+<br/>
+
+</details>
+
+---
+
+## `> focus`
 
 <table>
 <tr>
-<td>01</td><td>Build things that are useful.</td>
-</tr>
-<tr>
-<td>02</td><td>Prefer clarity over unnecessary complexity.</td>
-</tr>
-<tr>
-<td>03</td><td>Treat data as a raw material, not a conclusion.</td>
-</tr>
-<tr>
-<td>04</td><td>Ship, measure, and improve.</td>
-</tr>
-<tr>
-<td>05</td><td>Think in years, execute today.</td>
+<td width="50%" valign="top">
+
+### BUILDING
+
+- Data-driven products
+- Financial technology
+- Developer tools
+- Automation workflows
+
+</td>
+<td width="50%" valign="top">
+
+### EXPLORING
+
+- Market research
+- Financial analytics
+- AI-assisted workflows
+- Better software systems
+
+</td>
 </tr>
 </table>
 
-## Connect
+---
+
+## `> principles`
 
 <div align="center">
+
+| | |
+|---|---|
+| `01` | Build things that are useful. |
+| `02` | Prefer clarity over unnecessary complexity. |
+| `03` | Treat data as a raw material, not a conclusion. |
+| `04` | Ship, measure, and improve. |
+| `05` | Think in years. Execute today. |
+
+</div>
+
+---
+
+## `> connect`
+
+<div align="center">
+
+Interested in software, data, and financial technology?
+
+<br/>
 
 <a href="https://www.linkedin.com/in/s-viraj-patel/">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-3A2415?style=for-the-badge&logo=linkedin&logoColor=F2C078" />
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-3A2415?style=for-the-badge&logo=linkedin&logoColor=F2C078"/>
 </a>
-
-<br><br>
-
+&nbsp;
 <a href="https://github.com/VirajSankhla">
-<img src="https://img.shields.io/badge/VIEW%20THE%20WORK-3A2415?style=for-the-badge&logo=github&logoColor=D6A15D" />
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-3A2415?style=for-the-badge&logo=github&logoColor=D6A15D"/>
 </a>
 
-<br><br>
-
-<table>
-<tr>
-<td align="center">☕<br><sub>BUILD WITH PATIENCE</sub></td>
-<td align="center">◆<br><sub>FOLLOW THE SIGNAL</sub></td>
-<td align="center">↗<br><sub>KEEP COMPOUNDING</sub></td>
-</tr>
-</table>
-
-<br>
+<br/><br/>
 
 <code>RESEARCH · BUILD · SHIP · COMPOUND</code>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5E3C,50:3A2415,100:1B120B&height=120&section=footer" width="100%" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5E3C,50:3A2415,100:1B120B&height=120&section=footer" width="100%"/>
 
 </div>
