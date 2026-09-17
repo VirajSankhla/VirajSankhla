@@ -5,17 +5,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=750&color=F2C078&center=true&vCenter=true&width=720&lines=Building+systems+that+compound;Turning+ideas+into+working+software;Exploring+data%2C+markets%2C+and+technology;Research.+Build.+Ship.+Improve." width="100%"/>
 
-<a href="https://github.com/VirajSankhla">
-<img src="https://img.shields.io/badge/GITHUB-1B120B?style=for-the-badge&logo=github&logoColor=F2C078"/>
-</a>
-&nbsp;
 <a href="https://www.linkedin.com/in/s-viraj-patel/">
 <img src="https://img.shields.io/badge/LINKEDIN-1B120B?style=for-the-badge&logo=linkedin&logoColor=D6A15D"/>
 </a>
 
 </div>
-
----
 
 <div align="center">
 
