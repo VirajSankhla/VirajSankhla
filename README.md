@@ -91,10 +91,12 @@ PRODUCTS
 
 A software project focused on building a clean and useful digital experience.
 
-<br/><br/>
+<br/>
 
 <code>BUILDING</code>
+
 <br/>
+
 <a href="https://github.com/VirajSankhla/Wisp">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-3A2415?style=for-the-badge&logo=github&logoColor=F2C078"/>
 </a>
