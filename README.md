@@ -270,6 +270,7 @@ Exploring automation, AI-assisted workflows, and tools that improve software dev
 
 Interested in software, data, and financial technology?
 <br/>
+
 <a href="https://www.linkedin.com/in/s-viraj-patel/">
 <img src="https://img.shields.io/badge/LET'S%20CONNECT-3A2415?style=for-the-badge&logo=linkedin&logoColor=F2C078"/>
 </a>
