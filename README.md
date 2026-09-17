@@ -21,7 +21,7 @@
 
 </div>
 
-## `> whoami`
+## `> who am I?`
 
 <table width="100%">
 <tr>
@@ -142,8 +142,6 @@ Exploring automation, AI-assisted workflows, and tools that improve software dev
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,html,css,git,github,linux&theme=dark" width="100%"/>
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/Python-3A2415?style=flat-square&logo=python&logoColor=F2C078"/>
 <img src="https://img.shields.io/badge/JavaScript-3A2415?style=flat-square&logo=javascript&logoColor=F2C078"/>
